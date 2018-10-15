@@ -1,1 +1,1 @@
-# docker-terrraform to run ghost docker image
+# docker-terrraform to run ghost docke image
